@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 /**
  * Created by itou-yu on 2016/10/07.
+ * TODO:3ページから10ページへフリックできるページ数を増やす
+ * TODO:下条さんの作成したソースコードと統合する。
  */
 
 public class FlickMotionActivity extends Activity {
